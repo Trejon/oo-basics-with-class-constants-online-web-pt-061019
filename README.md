@@ -1,4 +1,3 @@
-
 # Object Orientation Basics With Class Constants
 
 ## Objectives
